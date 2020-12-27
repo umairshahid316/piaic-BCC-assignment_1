@@ -1,0 +1,1 @@
+document.write("Variable names can only contain $ , _,  <br> number and letter.<br> Variables must begin with a letter, _, $.<br> Variable names are case sensitive.<br> Variable names should not be JS keywords.")
